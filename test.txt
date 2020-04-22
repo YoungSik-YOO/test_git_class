@@ -5,7 +5,14 @@ added line2222
 =======
 added line
 
+<<<<<<< HEAD
+그만 놀아 제발
+=======
 유영식
 >>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
+<<<<<<< HEAD
+
+=======
+>>>>>>> bd2541d82deb2ac2f85d085719b2a344f7dab9ec
 오대현
 >>>>>>> ㅎㅎ
