@@ -1,7 +1,1 @@
-﻿new created file
-
-<<<<<<< HEAD
-머지가 머지요?
-
-
-sadsadsadsadsadsa
+﻿후알유
