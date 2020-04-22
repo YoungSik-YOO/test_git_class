@@ -3,7 +3,7 @@ new created file
 added line
 
 <<<<<<< HEAD
-±×¸¸ ³î¾Æ Á¦¹ß
+ê·¸ë§Œ ë†€ì•„ ì œë°œ
 =======
-À¯¿µ½Ä
+ìœ ì˜ì‹
 >>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
