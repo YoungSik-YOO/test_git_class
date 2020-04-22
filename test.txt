@@ -1,5 +1,8 @@
 new created file
 
+<<<<<<< HEAD
+added line2222
+=======
 added line
 
 <<<<<<< HEAD
@@ -7,3 +10,9 @@ added line
 =======
 ìœ ì˜ì‹
 >>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
+<<<<<<< HEAD
+
+=======
+>>>>>>> bd2541d82deb2ac2f85d085719b2a344f7dab9ec
+¿À´ëÇö
+>>>>>>> ¤¾¤¾
