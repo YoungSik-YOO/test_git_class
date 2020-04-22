@@ -2,4 +2,8 @@ new created file
 
 added line
 
+<<<<<<< HEAD
 choikangmin
+=======
+À¯¿µ½Ä
+>>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
