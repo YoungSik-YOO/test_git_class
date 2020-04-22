@@ -16,3 +16,4 @@ added line
 >>>>>>> bd2541d82deb2ac2f85d085719b2a344f7dab9ec
 오대현
 >>>>>>> ㅎㅎ
+이제부터 UTF-8로작동합니다
