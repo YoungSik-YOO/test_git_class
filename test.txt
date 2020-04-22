@@ -1,4 +1,4 @@
-new created file
+ï»¿new created file
 
 <<<<<<< HEAD
 added line2222
@@ -6,13 +6,13 @@ added line2222
 added line
 
 <<<<<<< HEAD
-±×¸¸ ³î¾Æ Á¦¹ß
+ê·¸ë§Œ ë†€ì•„ ì œë°œ
 =======
-À¯¿µ½Ä
+ìœ ì˜ì‹
 >>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
 <<<<<<< HEAD
 
 =======
 >>>>>>> bd2541d82deb2ac2f85d085719b2a344f7dab9ec
-¿À´ëÇö
->>>>>>> ¤¾¤¾
+ì˜¤ëŒ€í˜„
+>>>>>>> ã…Žã…Ž
