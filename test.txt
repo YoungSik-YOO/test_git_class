@@ -1,3 +1,11 @@
 new created file
 
+<<<<<<< HEAD
 added line2222
+=======
+added line
+
+유영식
+>>>>>>> bc6edcafd145f79dbd3dbb1c73753e616ea1be17
+오대현
+>>>>>>> ㅎㅎ
